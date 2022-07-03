@@ -1,0 +1,7 @@
+.bloop
+.gradle
+.metals
+.vscode
+bin
+build
+lib/*.jar
