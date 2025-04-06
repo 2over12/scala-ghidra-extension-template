@@ -40,5 +40,4 @@ import resources.Icons;
 	description = "Plugin long description goes here."
 )
 //@formatter:on
-class SkeletonPlugin(tool: PluginTool)
-    extends ProgramPlugin(tool, true, true) {}
+class SkeletonPlugin(tool: PluginTool) extends ProgramPlugin(tool) {}
